@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/spatial-soil-measurement-map-explainer/
 
+Repository: https://github.com/mizcausevic-dev/spatial-soil-measurement-map-explainer
+
 ## What this is
 
 An interactive anatomy plate for Spatial Soil-Measurement Map. Play, scrub, or jump the five stages. The same frame always draws the same picture.
